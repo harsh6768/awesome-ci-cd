@@ -1,5 +1,6 @@
 # What is CI-CD ? 
 
-Read more : 
+####Read more : 
 
-1. (CI-CD RED HAT DOC)[https://www.redhat.com/en/topics/devops/what-is-ci-cd]
+1. (https://www.redhat.com/en/topics/devops/what-is-ci-cd)[CI-CD RED HAT DOC]
+2. (https://kodekloud.com/blog/ci-cd-pipeline-in-devops/?utm_source=google&utm_medium=&utm_id=16890563714&utm_content=&utm_term=&creativeId=&gclid=CjwKCAjwwdWVBhA4EiwAjcYJEELkP1oDIjizdqwItKCV_HargF5tYXgIhR85sSJuTqk--_Mp1-yNyRoCUnsQAvD_BwE&gclid=CjwKCAjwwdWVBhA4EiwAjcYJEELkP1oDIjizdqwItKCV_HargF5tYXgIhR85sSJuTqk--_Mp1-yNyRoCUnsQAvD_BwE)[CI-CD KODE KLOUD DOC]
