@@ -9,4 +9,4 @@
 ### Install JENKINS On mac : 
 
 
-<img src="https://github.com/harsh6768/awesome-ci-cd/blob/master/doc-images/jenkins1.png" width="900px" height="760px"/>
+<img src="https://github.com/harsh6768/awesome-ci-cd/blob/master/doc-images/jenkins1.png" width="1000px" height="660px"/>
